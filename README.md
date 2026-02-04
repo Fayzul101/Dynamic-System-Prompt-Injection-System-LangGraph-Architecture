@@ -316,10 +316,6 @@ Customer orders are stored in `chamak_contacts.csv` with the following fields:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-[Add your license information here]
-
 ## Contact
 
 For questions or support, please contact [your contact information].
@@ -330,4 +326,5 @@ For questions or support, please contact [your contact information].
 - Uses [LangGraph](https://langchain-ai.github.io/langgraph/) for agent orchestration
 - Powered by OpenAI's GPT models
 - Vector storage with [Chroma](https://www.trychroma.com/)
+
 
