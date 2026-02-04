@@ -2,6 +2,8 @@
 
 An intelligent customer support agent built using LangGraph and RAG (Retrieval-Augmented Generation) to handle customer queries for Chamak Bangladesh, a premium home cleaning service company.
 
+Here, "Chamak" is an imaginary cleaning company.
+
 ![Multi-Prompt RAG Agent Architecture](Multi_Prompt_RAG_Agent.png)
 
 ## Overview
@@ -328,3 +330,4 @@ For questions or support, please contact [your contact information].
 - Uses [LangGraph](https://langchain-ai.github.io/langgraph/) for agent orchestration
 - Powered by OpenAI's GPT models
 - Vector storage with [Chroma](https://www.trychroma.com/)
+
